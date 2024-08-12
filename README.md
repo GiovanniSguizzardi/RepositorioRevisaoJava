@@ -1,6 +1,10 @@
 # RepositorioRevisaoJava
 Repositório criado para armazenar todos os arquivos sobre o Exercicio de revisão de java.
 
+- RM551261 - Giovanni Sguizzardi
+- RM98057 - Nicolas E. Inohue
+- RM99841 - Marcel Prado
+
 ## 🔗 Links
 - Clique aqui para baixar: [![Static Badge](https://img.shields.io/badge/Arquivo-War-File)](https://www.mediafire.com/file/h6kbut4eeew229h/JavaRevisao.zip/file)
 
