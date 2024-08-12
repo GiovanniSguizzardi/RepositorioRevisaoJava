@@ -68,5 +68,4 @@ dependências:
 ```
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![Static Badge](https://img.shields.io/badge/Arquivo-War-File)](https://www.mediafire.com/file/h6kbut4eeew229h/JavaRevisao.zip/file)
