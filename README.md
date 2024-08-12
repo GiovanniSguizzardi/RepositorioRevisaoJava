@@ -31,7 +31,38 @@ dependências:
 - Print do método CREATE (POST)
 ![image](https://github.com/user-attachments/assets/403c13c4-4ba4-4fbf-b106-ad99d5c01ca0)
 
-
 - Print do método UPDATE (PUT)
+![image](https://github.com/user-attachments/assets/804a9f35-9b5f-4eeb-ac5e-f3c9a7b4f4d7)
 
 - Print do método DELETE
+
+## JSON PARA TESTES!!!
+
+'''
+[
+    {
+        "id": 1,
+        "nome": "Bola de futebol",
+        "tipo": "Brinquedo esportivo",
+        "classificacao": "Livre",
+        "tamanho": "Médio",
+        "preco": 25.9
+    },
+    {
+        "id": 2,
+        "nome": "Lego The Hobbit",
+        "tipo": "Peças de Montar",
+        "classificacao": "+12",
+        "tamanho": "Grande",
+        "preco": 2499.99
+    },
+    {
+        "id": 3,
+        "nome": "Nintendo Switch",
+        "tipo": "Videogame",
+        "classificacao": "+16",
+        "tamanho": "Médio",
+        "preco": 1295.0
+    }
+]
+'''
