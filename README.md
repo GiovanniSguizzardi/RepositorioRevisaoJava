@@ -35,10 +35,10 @@ dependências:
 ![image](https://github.com/user-attachments/assets/804a9f35-9b5f-4eeb-ac5e-f3c9a7b4f4d7)
 
 - Print do método DELETE
+![image](https://github.com/user-attachments/assets/28e44a91-4175-435b-9301-a35d6a614160)
 
 ## JSON PARA TESTES!!!
-
-'''
+```bash
 [
     {
         "id": 1,
@@ -65,4 +65,4 @@ dependências:
         "preco": 1295.0
     }
 ]
-'''
+```
