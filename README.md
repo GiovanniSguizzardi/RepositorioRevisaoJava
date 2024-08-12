@@ -22,4 +22,4 @@ Foram criados dentro da aplicação 5 diferentes métodos de consulta, criação
 Aqui está a print da configuração final do SpringInitializr e respectivas 
 dependências:
 
-![image](![image](https://github.com/user-attachments/assets/a4fecf85-8095-4aa9-b13d-0e40b055cc14))
+![image](https://github.com/user-attachments/assets/a4fecf85-8095-4aa9-b13d-0e40b055cc14))
