@@ -3,11 +3,11 @@ Repositório criado para armazenar todos os arquivos sobre o Exercicio de revis�
 
 ## Documentação
 Foram criados dentro da aplicação 5 diferentes métodos de consulta, criação e delete de dados, e são eles:
-- listarBrinquedos(); 
-- criarBrinquedo();
-- atualizarBrinquedo();
-- excluirBrinquedo();
-- buscarBrinquedoPorId();
+- /brinquedos; 
+- /brinquedos/add;
+- /brinquedos/atualizar/{id};
+- /brinquedos/delete/{id};
+- /brinquedos/buscarid/{id};
 - generateNextId() método que gera um ID na classe **"criarBrinquedo()"**.
 
 | Atributo ORACLE            | Atributo JAVA          |
