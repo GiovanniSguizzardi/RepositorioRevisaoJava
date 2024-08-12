@@ -8,7 +8,7 @@ Repositório criado para armazenar todos os arquivos sobre o Exercicio de revis�
 ## 🔗 Links
 - Clique aqui para baixar: [![Static Badge](https://img.shields.io/badge/Arquivo-War-File)](https://www.mediafire.com/file/h6kbut4eeew229h/JavaRevisao.zip/file)
 
-## Documentação
+## 📜 Documentação
 Foram criados dentro da aplicação 5 diferentes métodos de consulta, criação e delete de dados, e são eles:
 - /brinquedos; 
 - /brinquedos/add;
@@ -31,7 +31,7 @@ dependências:
 
 ![image](https://github.com/user-attachments/assets/a4fecf85-8095-4aa9-b13d-0e40b055cc14)
 
-## Prints dos END-POINTS
+## 📝 Prints dos END-POINTS
 - Print do método GET
 ![image](https://github.com/user-attachments/assets/a3f093d5-6bb1-4fc5-92e2-3fefb053d599)
 
@@ -44,7 +44,7 @@ dependências:
 - Print do método DELETE
 ![image](https://github.com/user-attachments/assets/28e44a91-4175-435b-9301-a35d6a614160)
 
-## JSON PARA TESTES!!!
+## 📟 JSON PARA TESTES!!!
 ```bash
 [
     {
