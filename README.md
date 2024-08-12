@@ -12,14 +12,14 @@ Foram criados dentro da aplicação 5 diferentes métodos de consulta, criação
 
 | Atributo ORACLE            | Atributo JAVA          |
 | -------------------------- | ---------------------- |
-| B_ID (NUMBER)              | id (Long)              |
-| B_NOME (VARCHAR2)          | nome (String)          |
-| B_TIPO (VARCHAR2)          | tipo (String)          |
-| B_CLASSIFICACAO (VARCHAR2) | classificacao (String) |
-| B_TAMANHO (VARCHAR2)       | tamanho (String)       |
-| B_PRECO (NUMBER)           | preco (Double)         |
+| ID (NUMBER)                | id (Long)              |
+| NOME (VARCHAR2)            | nome (String)          |
+| TIPO (VARCHAR2)            | tipo (String)          |
+| CLASSIFICACAO (VARCHAR2)   | classificacao (String) |
+| TAMANHO (VARCHAR2)         | tamanho (String)       |
+| PRECO (NUMBER)             | preco (Double)         |
 
 Aqui está a print da configuração final do SpringInitializr e respectivas 
 dependências:
 
-![image](https://github.com/GiovanniSguizzardi/CPJava02Postman/assets/125572342/09ad579b-a0e3-4116-a5a2-c8dafe7daac8)
+![image](![image](https://github.com/user-attachments/assets/a4fecf85-8095-4aa9-b13d-0e40b055cc14))
