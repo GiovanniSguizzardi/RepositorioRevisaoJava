@@ -66,3 +66,7 @@ dependências:
     }
 ]
 ```
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![mediafire](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.mediafire.com/file/h6kbut4eeew229h/JavaRevisao.zip/file)
