@@ -10,6 +10,7 @@ Repositório criado para armazenar todos os arquivos sobre o Exercicio de revis�
 ## 🔗 Links
 - Clique aqui para baixar: [![Static Badge](https://img.shields.io/badge/Arquivo-War-File)](https://www.mediafire.com/file/h6kbut4eeew229h/JavaRevisao.zip/file)
 - Link do Site Hospedado: [Site](https://giovannisguizzardi.github.io/RepositorioRevisaoJava/)
+- Link do REPOSITÓRIO: [Site](https://github.com/GiovanniSguizzardi/RepositorioRevisaoJava.git)
 
 ## 📜 Documentação
 Foram criados dentro da aplicação 5 diferentes métodos de consulta, criação e delete de dados, e são eles:
