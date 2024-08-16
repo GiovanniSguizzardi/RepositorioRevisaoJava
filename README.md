@@ -48,11 +48,10 @@ dependências:
 - Print do método DELETE
 ![image](https://github.com/user-attachments/assets/28e44a91-4175-435b-9301-a35d6a614160)
 
-## 📟 JSON PARA TESTES!!!
+## 📟 JSON PARA TESTES
 ```bash
 [
     {
-        "id": 1,
         "nome": "Bola de futebol",
         "tipo": "Brinquedo esportivo",
         "classificacao": "Livre",
@@ -60,7 +59,6 @@ dependências:
         "preco": 25.9
     },
     {
-        "id": 2,
         "nome": "Lego The Hobbit",
         "tipo": "Peças de Montar",
         "classificacao": "+12",
@@ -68,7 +66,6 @@ dependências:
         "preco": 2499.99
     },
     {
-        "id": 3,
         "nome": "Nintendo Switch",
         "tipo": "Videogame",
         "classificacao": "+16",
