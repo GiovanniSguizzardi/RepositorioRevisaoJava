@@ -49,6 +49,11 @@ dependências:
 ![image](https://github.com/user-attachments/assets/28e44a91-4175-435b-9301-a35d6a614160)
 
 ## 📟 JSON PARA TESTES
+
+```bash
+🔥 Link do JSON: [Link JSON](https://giovannisguizzardi.github.io/RepositorioRevisaoJava/Projeto)
+```
+
 ```bash
 [
     {
