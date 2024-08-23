@@ -1,0 +1,5 @@
+com\example\brinquedos\controller\RestcrudController.class
+com\example\brinquedos\model\Brinquedo.class
+com\example\brinquedos\BrinquedosApplication.class
+com\example\brinquedos\ServletInitializer.class
+com\example\brinquedos\repository\BrinquedoRepository.class
