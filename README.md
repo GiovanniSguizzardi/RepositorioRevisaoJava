@@ -8,8 +8,7 @@ Repositório criado para armazenar todos os arquivos sobre o Exercicio de revis�
 § IDE UTILIZADA: IntelliJ
 
 ## 🔗 Links
-- Clique aqui para baixar: [![Static Badge](https://img.shields.io/badge/Arquivo-War-File)](https://www.mediafire.com/file/h6kbut4eeew229h/JavaRevisao.zip/file)
-- Link do Site Hospedado: [Link Site-Hospedado](https://giovannisguizzardi.github.io/RepositorioRevisaoJava/)
+- Link do Site Hospedado: [Link Site-Hospedado](https://repositoriobrinquedos.onrender.com/)
 - Link do REPOSITÓRIO: [Link Repositório](https://github.com/GiovanniSguizzardi/RepositorioRevisaoJava.git)
 
 ## 📜 Documentação
