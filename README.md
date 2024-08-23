@@ -48,4 +48,28 @@ dependências:
 ![image](https://github.com/user-attachments/assets/28e44a91-4175-435b-9301-a35d6a614160)
 
 ## 📟 JSON PARA TESTES
-🔥 Link do JSON: [Link JSON](https://giovannisguizzardi.github.io/RepositorioRevisaoJava/Projeto)
+```bash
+[
+    {
+        "nome": "Bola de futebol",
+        "tipo": "Brinquedo esportivo",
+        "classificacao": "Livre",
+        "tamanho": "Médio",
+        "preco": 25.9
+    },
+    {
+        "nome": "Lego The Hobbit",
+        "tipo": "Peças de Montar",
+        "classificacao": "+12",
+        "tamanho": "Grande",
+        "preco": 2499.99
+    },
+    {
+        "nome": "Nintendo Switch",
+        "tipo": "Videogame",
+        "classificacao": "+16",
+        "tamanho": "Médio",
+        "preco": 1295.0
+    }
+]
+```
